@@ -6,6 +6,7 @@
 * My name is Megha Mansuria (she/her)
 * I'm a Computer Science student @ Stevens Institute of Technology graduating in Spring 2022!
 
+[![Megha's github stats](https://github-readme-stats.vercel.app/api?username=meghamansuria&theme=midnight-purple)]
 
 <!--
 **meghamansuria/meghamansuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
