@@ -1,4 +1,4 @@
-![](https://github.com/meghamansuria/meghamansuria/blob/main/meghamansuria-header.png)
+![](https://github.com/meghamansuria/meghamansuria/blob/main/header.png)
 
 ### 
 
