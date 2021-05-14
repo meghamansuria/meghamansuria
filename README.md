@@ -1,6 +1,11 @@
 ![](https://github.com/meghamansuria/meghamansuria/blob/main/header.png)
 
-### 
+## *hi there! it's so nice to meet you!*
+
+### a little bit about me:
+* My name is Megha Mansuria (she/her)
+* I'm a Computer Science student @ Stevens Institute of Technology graduating in Spring 2022!
+
 
 <!--
 **meghamansuria/meghamansuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
