@@ -6,7 +6,7 @@
 * My name is Megha Mansuria (she/her)
 * I'm a Computer Science student @ Stevens Institute of Technology graduating in Spring 2022!
 
-![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghamansuria&title_color=4c0bd1&text_color=9aa7b2&icon_color=75c7fb&bg_color=ffffff&show_icons=true)
+![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghamansuria&title_color=4c0bd1&text_color=75c7fb&icon_color=9aa7b2&bg_color=ffffff&show_icons=true)
 
 
 <!--
