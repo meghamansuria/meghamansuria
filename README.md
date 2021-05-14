@@ -5,7 +5,14 @@
 ### a little bit about me:
 * My name is Megha Mansuria (she/her)
 * I'm a Computer Science student @ Stevens Institute of Technology graduating in Spring 2022!
+* Also, I'm pursuing a minor in Pure and Applied Mathematics!
 
+### what i enjoy doing for fun:
+* Art! Just a little way for me to get creative
+* Listening to music! Dance breaks are necessary
+* Being outdoors! A nice pause from the screens
+
+### check out what i've been doing:
 ![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghamansuria&title_color=4c0bd1&text_color=75c7fb&icon_color=9aa7b2&bg_color=ffffff&show_icons=true)
 
 
