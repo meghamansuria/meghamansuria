@@ -4,8 +4,8 @@
 
 ### a little bit about me:
 * My name is Megha Mansuria (she/her)
-* I'm a Computer Science student @ Stevens Institute of Technology graduating in Spring 2022!
-* Also, I'm pursuing a minor in Pure and Applied Mathematics!
+* I recently graduated from Stevens Institute of Technology in Spring 2022 with a B.S. in Computer Science!
+* Also, I pursued a minor in Pure and Applied Mathematics!
 
 ### what i enjoy doing for fun:
 * Art! Just a little way for me to get creative
